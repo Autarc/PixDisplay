@@ -1,0 +1,5 @@
+PixDisplay
+==========
+
+Is a CoffeeScript library which allows to draw pixels instead of lines.
+I tried to do something different and used an object orientated approach for this functional language/transpiler.
